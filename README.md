@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghuysu&label=Profile%20views&color=0e75b6&style=flat" alt="ghuysu" /> </p>
 
 - 🌱 Get in touch with me at **daogiahuysu@gmail.com**
-- 📝 Here's a glimpse of my journey – [**my resume**](https://drive.google.com/file/d/1RHCu-kmF8J5pFLt0-HUJ4D6yXTQZ6IA3/view?usp=sharing)
+- 📝 Here's a glimpse of my journey – [**my portfolio**](https://my-portfolio-rho-neon.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
