@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ghuysu</h1>
-<h3 align="center">Crafting Scalable APIs | Node.js Enthusiast | Building Reliable Backends with Precision 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghuysu&label=Profile%20views&color=0e75b6&style=flat" alt="ghuysu" /> </p>
 
